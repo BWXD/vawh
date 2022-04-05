@@ -1,10 +1,10 @@
 
-const { ifError } = require("assert");
-const { memory } = require("console");
+/*const { ifError } = require("assert");
+const { memory } = require("console");*/
 const Discord = require("discord.js");
 var client = new Discord.Client();
 
-var queue = ``;
+//var queue = ``;
 var p1 = 0;
 var p2 = 0;
 var p3 = 0;
